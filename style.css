@@ -1,0 +1,70 @@
+
+/* <-- ----- styles for changing background colors by using different buttons ----- --> */
+.color{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+button:hover{
+    width: 110px;
+    height: 60px;
+}
+#black{
+    background-color: black;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#brown{
+    background-color: brown;
+}
+#orange{
+    background-color: orange;
+}
+#blue{
+    background-color:blue;
+}
+#pink{
+    background-color: pink;
+}
+#grey{
+    background-color: grey;
+}
+#purple{
+    background-color: purple;
+}
+#maroon{
+    background-color: maroon;
+}
+#fuchsia{
+    background-color: fuchsia;
+}
+#chartreuse{
+    background-color: chartreuse;
+}
+
+
+
+/* <!-- ----- css for changing background colors by using only one button ----- --> */
+
+#clickme{
+    color: white;
+    background-color: coral;
+    border-radius: 10px;
+    margin-top: 20%;
+    margin-left: 35%;
+    width: 25%;
+    height: 50px;
+    
+}
+
+#clickme:hover{
+    width: 30%;
+    height: 60px;
+}
